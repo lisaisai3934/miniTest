@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "src=http___logocola.poooster.com_logocola_1801_Github-2.jpg&refer=http___logocola.poooster.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
